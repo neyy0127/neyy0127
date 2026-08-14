@@ -12,7 +12,7 @@ Hi, I'm **Daniel**
 ---
 
 <div align="center">
-  <h3>🐍 My GitHub Contributions</h3>
+  <h3>My GitHub Contributions</h3>
   <!-- Ular Github yang bergerak secara otomatis (dihasilkan melalui GitHub Actions) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neyy0127/neyy0127/output/github-contribution-grid-snake-dark.svg">
